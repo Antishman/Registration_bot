@@ -1,5 +1,5 @@
 
-# ARU CLUN Techno Registration Bot
+# ARU CLUB Techno Registration Bot
 
 Welcome to the ARU CLUB Techno Registration Bot! This bot is designed for registering members of the ARU Techno Based Club, allowing users to provide their details and preferences.
 
