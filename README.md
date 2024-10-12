@@ -25,7 +25,7 @@ To set up the bot, follow these steps:
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/yourusername/Registration_bot.git
-   cd delivery-bot
+   cd Registration_bot
    ```
 
 2. **Install Dependencies**:
