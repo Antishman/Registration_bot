@@ -12,7 +12,7 @@ NAME, USERNAME, DEPARTMENT, PREFERENCE = range(4)
 
 # Path for the CSV file
 DATA_FILE = 'registration_data.csv'
-GROUP_INVITE_LINK = "https://t.me/+wQrtsVVvM9ZkNTVk"  # Replace with your actual group invite link
+GROUP_INVITE_LINK = "GROUP_INVITE_LINK"  # Replace with your actual group invite link
 
 # Start command
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE) -> int:
