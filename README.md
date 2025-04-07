@@ -24,7 +24,7 @@ To set up the bot, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/Registration_bot.git
+   git clone https://github.com/Antishman/Registration_bot.git
    cd Registration_bot
    ```
 
@@ -76,14 +76,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 Feel free to contribute to this project by forking the repository and submitting pull requests. Happy coding! 🚀
 ```
-
-### Instructions to Use the README
-
-1. Replace Placeholder Text:
-   - Replace `yourusername` in the clone command with your actual GitHub username.
-   - Ensure that all links, especially the group invite link, are correct.
-
-2. Add to Your Repository:
-   - Save this content in a file named `README.md` in the root of your repository.
-
-This README provides a clear overview of your project, making it easier for users and contributors to understand its purpose and how to use it.
